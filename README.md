@@ -1,2 +1,3 @@
 # ft_server
-Exercício 42 são paulo
+Servidor web:
+  Mysql, PHPmyadmin e wordpress;
